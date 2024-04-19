@@ -1,0 +1,33 @@
+:root{
+    display: flex;
+    justify-content: center;
+}
+.Cabecera{
+    width: 1400px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #B3C8CF;
+}
+.cardsDogs{
+    display: flex;
+    justify-content: space-around;
+    width: 1400px;
+    height: 600px;
+    background-color: #F1EEDC;
+    border-radius: 10px;
+}
+.imgp{
+    height: 300px;
+    width: 286px;
+}
+.foot{
+    width: 1400px;
+    height: 100px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.cardP{
+    height: 550px;
+    margin-top: 20px;
+}
